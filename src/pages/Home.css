@@ -1,0 +1,35 @@
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.connectbutton{
+  margin-top:6em;
+}
+.logo{
+  width:20em;
+}
+.logo1{
+  width:10em;
+}
+.logo2{
+  width:10em;
+}
+
+.qr{
+  /* display:flex; */
+  /* background-color:red; */
+  justify-content:center;
+  width:20em;
+}
+.modal{
+  display:flex;
+  flex-direction:column;
+}
+.modal-content{
+  display:flex;
+  flex-direction: column;
+  
+  width:20em;
+ 
+}
