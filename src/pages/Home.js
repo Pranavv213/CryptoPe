@@ -10,6 +10,7 @@ import CryptoPe from './Cryp.png'
 
 
 const Home = () => {
+  const q=[1]
   const Web3Api = useMoralisWeb3Api();
   const contractProcessor = useWeb3ExecuteFunction();
   const resolveLink = (url) => {
